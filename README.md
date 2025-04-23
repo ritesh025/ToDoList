@@ -54,8 +54,8 @@ Contributions are always welcome!
  Feel free to fork the repo, create a branch, and submit a pull request.
 ## Screenshots
 
-![App Screenshot]("C:\Users\rites\OneDrive\Pictures\Screenshots\Screenshot 2025-04-23 143604.png")
+![App Screenshot]("https://github.com/ritesh025/ToDoList/blob/7abe9776ad7cb9d96ecdf79a453de66731fb2485/Screenshot%202025-04-23%20143621.png")
 
-![App Screenshot]("C:\Users\rites\OneDrive\Pictures\Screenshots\Screenshot 2025-04-23 143621.png")
+![App Screenshot]("")
 
 
