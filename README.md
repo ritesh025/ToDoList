@@ -54,8 +54,8 @@ Contributions are always welcome!
  Feel free to fork the repo, create a branch, and submit a pull request.
 ## Screenshots
 
-![App Screenshot]("https://github.com/ritesh025/ToDoList/blob/7abe9776ad7cb9d96ecdf79a453de66731fb2485/Screenshot%202025-04-23%20143621.png")
+!("https://github.com/ritesh025/ToDoList/blob/7abe9776ad7cb9d96ecdf79a453de66731fb2485/Screenshot%202025-04-23%20143621.png")
 
-![App Screenshot]("")
+!("https://github.com/ritesh025/ToDoList/blob/d840f5d7e7a1423da26c2b924dda83f604d69dd5/Screenshot%202025-04-23%20143604.png")
 
 
