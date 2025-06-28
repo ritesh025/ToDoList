@@ -1,6 +1,6 @@
 
 # To Do List                      
-This is a simple To-Do List web application built with HTML, CSS, and JavaScript. The app allows users to add tasks, set their priorities (Normal, Urgent, Low Priority), and toggle between light and dark modes. Each task can be edited, marked as completed, or deleted.
+This is a simple To-Do List web application built with HTML, CSS, and JavaScript. The app allows users to add tasks, set their priorities (Normal, Urgent, Low Priority), and toggle between light and dark modes. Each task can be edited, marked as completed, or deleted. Deployed in Vercel.
 
 Live - https://to-do-list-six-ecru-54.vercel.app/
 
@@ -17,8 +17,6 @@ Live - https://to-do-list-six-ecru-54.vercel.app/
 
 - Footer with Social Media Links: Links to GitHub, LinkedIn, Instagram, and Twitter profiles.
 
-## Required Installation
-- Must have a code editor with latest version. 
 
 ## ✨Usage Guide
 
@@ -31,14 +29,6 @@ Live - https://to-do-list-six-ecru-54.vercel.app/
 - Theme Toggle: Switch between light and dark themes for a more comfortable experience.
 
 - Social Media Links: Connect with the developer via social media in the footer.
-
-
-
-
-
-
-
-
 
 
 
